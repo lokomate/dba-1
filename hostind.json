@@ -3,7 +3,7 @@
 	"status": 1,
 	"v" : 295,
 	"vipurl" : "http://muvipworld.net",
-	"shownotice" : {"text":"Bienvenido...","speed":70,"color":[0, 200 , 0, 255]},
+	"shownotice" : {"text":"Activado...","speed":05,"color":[0, 200 , 0, 255]},
 	"notice_off_str" : {"text":"Aimbot offline...","speed":70,"color":[255, 0 , 0, 255]},
 	"server_str": "Aimbot desactivado, contacta con el administrador fb.com/wzvang. Si eres usuario VIP ingresa a: http://muvipworld.net/viewtopic.php?p=3118",
 	"update_str": "Nueva versión disponible (4.0.8), Descárgalo en http://muvipworld.net/",
