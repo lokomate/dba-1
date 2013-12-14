@@ -1,6 +1,6 @@
 {
 	"version": 4.08,
-	"status": 1,
+	"status": 0,
 	"v" : 295,
 	"vipurl" : "http://muvipworld.net/bot",
 	"shownotice" : {"text":"Bienvenido...","speed":70,"color":[0, 200 , 0, 255]},
