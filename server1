@@ -1,6 +1,6 @@
 {
 	"version": 1.00,
-	"status": 1,
+	"status": 0,
 	"v" : 295,
 	"vipurl" : "http://xaimbot.tk/premiun",
 	"shownotice" : {"text":"Activado...","speed":70,"color":[0, 200 , 0, 255]},
